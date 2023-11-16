@@ -1,0 +1,121 @@
+Keyboard shortcut in MS Excel
+CTRL+A ➡️Select All
+CTRL+C ➡️Copy all Cells in Highlighted Area
+CTRL+V ➡️Paste Copied Data
+CTRL+B ➡️Bold all Cells in Highlighted Area
+CTRL+D ➡️Fills the content of an upper cell in the selected cell. (i.e. Ctrl+ Down)
+CTRL+R ➡️Fill Content of the right cell in the selected cell. (ie. Ctrl+ Right)
+CTRL+U ➡️Underline content in selected cells
+CTRL+P ➡️Print
+CTRL+F ➡️Find in Current Sheet (Opens Dialog Box)
+CTRL+G ➡️Open the “Go to” dialog box (Go to any area, cells, or named range)
+CTRL+H ➡️Opens the Find & Replace dialog box
+CTRL+I ➡️Change text /Content format in selected cells into italic
+CTRL+K ➡️Opens the “Insert Hyperlink” dialog Box (Insert hyperlink)
+CTRL+S ➡️Saves the open workbook
+CTRL+W ➡️Closes current workbook
+CTRL+X ➡️Cuts all cells in the selected area/section
+CTRL+Y ➡️Repeats the last entry/action performed
+CTRL+Z ➡️Undo last entry/action performed
+CTRL+1 ➡️Change cells format (Opens Format Cells dialog box
+Ctrl+2 ➡️Bolds all cells in the highlighted section.
+Ctrl+3 ➡️Puts italics on all cells in the highlighted section.
+Ctrl+4 ➡️Underlines all cells in the highlighted section.
+Ctrl+5 ➡️Puts a strikethrough all cells in the highlighted rl+5: section.
+Ctri+6 ➡️Shows or hides objects.
+Ctrl+7 ➡️Shows or hides the toolbar.
+Ctrl+8 ➡️Toggles the outline symbols.
+Ctrl+9 ➡️Hides rows.
+Ctrl+0 ➡️Hides columns.
+Ctrl+Shift+: ➡️Enters the current time.
+Ctrl+; ➡️Enters the current date.
+Ctri+ ➡️Changes between displaying cell values or formulas in the worksheet.
+Ctrl+ ➡️Copies a formula from the cell above.
+Ctrl+Shift+” ➡️Copies value from cell above.
+Ctrl+- ➡️Deletes the selected column or row.
+Ctrl+Shift+= ➡️Inserts anew column or row.
+Ctrl+Shift+~ ➡️Switches between showing Excel formulas or their values in cells.
+Ctrl+Shift+@ ➡️Applies time formatting.
+Ctrl+Shift+! ➡️Applies comma formatting.
+Ctrl+Shift+$ ➡️Applies currency formatting.
+Ctrl+Shift+# ➡️Applies date formatting.
+Ctrl+Shift+% ➡️Applies percentage formatting.
+Ctrl+Shift+* ➡️Applies exponential formatting.
+Ctrl+Shift+* ➡️Selects the current region around the active cell.
+Ctrl+Shift+& ➡️Places border around selected cells.
+Ctrl+Shift+_ ➡️Removes a border.
+Ctrl++ ➡️Insert.
+Ctrl+- ➡️Delete.
+Ctrl+Shift+( ➡️Unhide rows. 49 Ctrl+Shift+) Unhide columns.
+Ctrl+/ ➡️Selects the array containing the active cell.
+Ctrl+\ ➡️Selects the cells that have a static value or don’t match the formula in the active cell.
+Ctrl+[ ➡️Selects all cells referenced by formulas in the highlighted section.
+Ctrl+] ➡️Selects cells that contain formulas that reference the active cell.
+Ctrl+Shift+{ ➡️Selects all cells directly or indirectly referenced by formulas in the highlighted section.
+Ctrl+Shift+} ➡️Selects cells that contain formulas that directly or indirectly reference the active cell.
+Ctrl+Shift+| (pipe) ➡️Selects the cells within a column that don’t match the formula or static value in the active cell.
+Ctrl+Enter ➡️Fills the selected cells with the current entry.
+Ctrl+Spacebar ➡️Selects the entire column.
+Ctrl+Shift+Spacebar ➡️Selects the entire worksheet.
+Ctrl+Home ➡️Move to cell Al.
+Ctrl+End ➡️Move to the last cell on the worksheet.
+Ctrl+Tab ➡️Move between Two or more open Excel files.
+Ctrl+Shift+Tab ➡️Activates the previous workbook.
+Ctrl+Shift+A ➡️Inserts argument names into a formula.
+Ctrl+Shift+F ➡️Opens the drop-down menu for fonts.
+Ctrl+Shift+O ➡️Selects all of the cells that contain comments.
+Ctri+Shift+P ➡️Opens the drop-down menu for the point size.
+Shift+Insert ➡️Pastes what is stored on the clipboard.
+Shift+Page Up ➡️In a single column highlights all cells above that which are selected.
+Shift+Page Down ➡️In a single column highlights all cells above that which are selected.
+Shift+Home ➡️Highlights all text to the left of the cursor.
+Shift+End ➡️Highlights all text to the right of the cursor.
+Shift+Up Arrow ➡️Extends the highlighted area up to one cell.
+Shift+Down Arrow ➡️Extends the highlighted area down one cell.
+Shift+Left Arrow ➡️Extends the highlighted area left one character.
+Shift +Right Arrow ➡️Extends the highlighted area right one character.
+Alt+Tab ➡️Cycles through applications.
+Alt+Spacebar ➡️Opens the system menu.
+Alt+Backpspace ➡️Undo.
+Alt+Enter ➡️While typing text in a cell, pressing
+Alt+Enter ➡️will move to the next line, allowing for multiple lines of text in one cell.
+Alt+= ➡️Creates a formula to sum all of the above cells.
+Alt+’ ➡️Allows formatting on a dialog box.
+FI ➡️Opens the Help menu.
+F2 ➡️Edits the selected cell.
+F3 ➡️After a name has been created, F3 will paste names.
+F4 ➡️Repeats the last action. For example, if you changed the color of the text in another cell, pressing
+F4 ➡️will change the text in the cell to the same color.
+F5 ➡️Goes to a specific cell. For example, C6.
+F6 ➡️Move to the next pane.
+F7 ➡️Spell check selected text or document.
+F8 ➡️Enters Extend Mode.
+F9 ➡️Recalculates every workbook.
+F10 ➡️Activates the menu bar.
+F11 ➡️Creates a chart from selected data.
+F12 ➡️Save as.
+Shift+F5 ➡️Brings up a search box.
+Shift+F6 ➡️Move to the previous page.
+Shift+F8 ➡️Add to selection.
+Shift+F9 ➡️Performs calculate function on the active sheet.
+Ctri+F3 ➡️Open Excel Name Manager.
+Ctri+F4 ➡️Closes current Window.
+Ctri+F5 ➡️Restores window size.
+Ctri+F6 ➡️Next workbook.
+Ctrl+Shift+F6 ➡️Previous workbook.
+Ctri+F7 ➡️Moves the window.
+Ctri+F8➡️ Resizes the window.
+Ctri+F9 ➡️Minimize current window.
+Ctri+F10 ➡️Maximize the currently selected window.
+Ctri+F11 ➡️Inserts a macro sheet.
+Ctri+F12 ➡️Opens afile.
+Ctrl+Shift+F3 ➡️Creates names by using those of either row or column labels.
+Ctri+Shift+F6 ➡️Moves to the previous worksheet window.
+Ctrl+Shift+F12 ➡️Prints the current worksheet.
+Alt+Fl ➡️Inserts a chart.
+Alt+F2 ➡️Save as.
+Alt+F4 ➡️Exits Excel.
+Alt+F8 ➡️Opens the macro dialog box.
+Alt+F11➡️Opens the Visual Basic editor.
+Alt+Shift+F1 ➡️Creates a new worksheet.
+Alt+Shift+F2 ➡️Saves the current worksheet.
